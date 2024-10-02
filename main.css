@@ -1,0 +1,32 @@
+/* @import url("https://meyerweb.com/eric/tools/css/reset/reset.css"); */
+
+@import url("reset.css");
+
+/* reset */
+
+/* *,
+*::after,
+*::before{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+} */
+
+.wrapper{
+    max-width: 900px;
+}
+
+img{
+    width: 100%;
+}
+
+.text_red,
+.text-red,
+.textRed{
+    color: red;
+}
+
+.textItalic{
+    font-style: italic;
+}
